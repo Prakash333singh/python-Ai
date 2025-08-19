@@ -46,10 +46,3 @@ Popular examples include GPT, Claude, and Mistral.
 - ✅ Logging and traceability of agent decisions
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/agentic-llms.git
-cd agentic-llms
-pip install -r requirements.txt
